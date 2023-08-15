@@ -12,7 +12,7 @@
 .div2{
     height: 50%;
      width: 75%;
-     padding-left:100px;
+     /* padding-left:100px; */
     
 }
 @keyframes blinking {
