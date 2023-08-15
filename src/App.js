@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Map from './Components/Map'
+import Map from './Map'
 const App = () => {
 
   return (

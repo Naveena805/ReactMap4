@@ -1,0 +1,32 @@
+.div1{
+    background: linear-gradient(180deg, white,#74B9FF, #00B894);
+}
+@media screen and (max-width: 768px) {
+    .div2 {
+     
+      padding-top: 100px;
+      
+    }
+  }
+
+.div2{
+    height: 50%;
+     width: 75%;
+     padding-left:100px;
+    
+}
+@keyframes blinking {
+    0%, 100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+  .h1{
+    text-align: center;
+    color:#1578db;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
